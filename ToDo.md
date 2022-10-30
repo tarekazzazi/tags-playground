@@ -3,7 +3,7 @@ FIRST
 [ ] Condese and refactor code
 THEN
 [ ] Convert tag search input into a list of tags to select from
-[ ] Convert hard coded list of tags into tags from DB
+[x] Convert hard coded list of tags into tags from DB
 { } Add tags to a element like a photo
 [ ] map through images
 SET UP
